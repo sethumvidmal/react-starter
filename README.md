@@ -1,1 +1,1 @@
-# eventure-customer-frontend
+# React starter
